@@ -1,6 +1,0 @@
-
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°’ΌΎ8¤¦άμ0
-j	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ε¥“8½¦άμ0
-o	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(γ‹™”ÿÿÿÿÿ8†Ωϋέμ0
-\
-java:S1128"?Remove this unused import 'com.job_adds.JobAdds.entity.Worker'.(΄ξΫ­8α¥©άμ0
