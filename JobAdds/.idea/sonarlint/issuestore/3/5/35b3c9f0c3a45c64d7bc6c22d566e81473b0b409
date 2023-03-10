@@ -1,0 +1,15 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°’ΌΎ
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(΄ζ¦—ωÿÿÿÿ8κΜαάμ0
+j	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªΞ›²8‡ύλάμ0
+f
+java:S1128"DRemove this unused import 'com.job_adds.JobAdds.entity.Job_Posting'.(Ι—“υψÿÿÿÿ8Μπέμ0
+\
+java:S1128"?Remove this unused import 'com.job_adds.JobAdds.entity.Worker'.(΄ξΫ­8‘Μπέμ0
+g
+java:S1128"ERemove this unused import 'com.job_adds.JobAdds.repository.JobsRepo'.(ƒ°΅ιύÿÿÿÿ8‘Μπέμ0
+d
+java:S1128"GRemove this unused import 'com.job_adds.JobAdds.repository.WorkerRepo'.(Θ”Όΰ8‘Μπέμ0
+i
+java:S1128
+"LRemove this unused import 'org.springframework.data.relational.core.sql.In'.(σ²θ8‘Μπέμ0
